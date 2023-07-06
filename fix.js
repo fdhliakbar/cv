@@ -1,1 +1,1 @@
-console.log("You look lonely. I can fix that");
+let lonely = "you look lonely. i can fix that";
