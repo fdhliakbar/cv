@@ -10,3 +10,5 @@ function isSorting(let numbers) {
   }
 }
 console.log(isSorting(numbers));
+console.log("Hello");
+
